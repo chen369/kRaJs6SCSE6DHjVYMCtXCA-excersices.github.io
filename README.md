@@ -4,7 +4,8 @@ In JavaScript, you know that events are a big part of it, especially when it com
 
 # How to run
 Navigate to `https://chen369.github.io/kRaJs6SCSE6DHjVYMCtXCA-excersices.github.io`
-And enjoy!
+Hover mouse above eyes. 
+Enjoy!
 
 # License 
 Copyright 2023 Chen Lee Chiu
